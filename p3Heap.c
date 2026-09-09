@@ -1,31 +1,3 @@
-////////////////////////////////////////////////////////////////////////////////
-// Main File:        p3heap.c
-// This File:        p3heap.c
-// Other Files:      (name of all other files if any)
-// Semester:         CS 354 Lecture 003 SP25
-// Instructor:       Yiyin Shen
-// 
-// Author:           Jaxson Banser
-// Email:            banser@wisc.edu
-// CS Login:         jaxson
-/////////////////////////////// OPTIONAL WORK LOG ///////////////////////////////
-// Document your work sessions here or on your copy of https://bit.ly/cs354-work-log
-// Keep track of commands, structures, code that you have learned.
-// This will help you focus your review on this from each program that are new to you.  
-/////////////////////// REQUIRED -- OTHER SOURCES OF HELP ///////////////////////
-// Persons:         N/A
-//
-// Online sources:  N/A
-// 
-// AI tools:        N/A 
-////////////////////////////////////////////////////////////////////////////////
-
-///////////////////////////////////////////////////////////////////////////////
-// Copyright Jim Skrentny & Deb Deppeler 2020-2024
-// Adopted by permission Yiyin Shen SP 2025
-// Posting or sharing this file is prohibited, including any changes/additions.
-///////////////////////////////////////////////////////////////////////////////
-
 #include <unistd.h>
 #include <stdio.h>
 #include <sys/types.h>
